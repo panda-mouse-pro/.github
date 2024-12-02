@@ -1,4 +1,4 @@
-<html lang="en-US">
+<html lang="pt-BR">
 <h1>Panda Mouse Pro: Um Guia Completo para Usar Seu Telefone com Teclado e Mouse</h1>
     <p><strong>Panda Mouse Pro</strong> é uma ferramenta popular que permite que jogadores Android usem um teclado e mouse para jogar jogos móveis. Este aplicativo se tornou uma solução ideal para jogadores que desejam mais controle e precisão em sua experiência de jogo. Neste guia, vamos cobrir tudo o que você precisa saber sobre o <strong>Panda Mouse Pro</strong> - desde seus recursos e compatibilidade até a instalação e dicas de solução de problemas. Vamos lá.</p>
 
